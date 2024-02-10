@@ -6,13 +6,13 @@
     <img src="./img/image1.png">
 
     * ```git log --oneline --all --graph``` 터미널에 입력 -> commit이 잘 되었는지 확인  
-    <br>
-   ![](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/img/image2.png?raw=true)
+    <br>  
+    <img src="./img/image2.png">
 
     * push 이후  
-    <br>
-   ![](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/img/image3.png?raw=true)
+    <br>  
+    <img src="./img/image3.png">
 
 * pull과 push 목록 확인 가능  
-<br>
-![](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/img/image4.png?raw=true)
+<br>  
+<img src="./img/image4.png">
