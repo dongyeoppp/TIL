@@ -19,4 +19,4 @@
 
 * github에서 협업하기  
     * setting -> collaborators -> add people -> 사용자 이메일 입력 or username 입력  
-    * 
+    * 안녕하세요
