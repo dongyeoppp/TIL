@@ -1,4 +1,4 @@
-##  vscode에서 git으로 협업하기  
+##  vscode를 이용해 git으로 협업하기  
 
 * commit 후 push 하기 
     * Source Control에서 message(git hub에서 last commit message로 보임) 입력 후 commit!  
