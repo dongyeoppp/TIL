@@ -22,7 +22,9 @@
     * 충돌  
         * 같은 부분을 수정하면 충돌 발생  
         <img src="./img/image5.png">
-        <br>  
+        <br>
+    * 충돌_해결하기  
+        * 충돌이 발생한 곳에 특수기호를 지우고 수정할 내용 입력  
         * 아래 빨간 박스의 느낌표는 충돌을 의미함  
         * 빨간 박스 옆에 + 버튼(stage changes)을 누른 후 commit  
         <img src="./img/image6.png">  
