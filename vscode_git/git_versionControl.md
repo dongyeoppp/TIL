@@ -22,7 +22,7 @@
     * 충돌  
         * 같은 부분을 수정하면 충돌 발생  
         <img src="./img/image5.png">
-        <br>
-        * 아래 빨간 박스의 느낌표는 충돌을 의미함
+        <br>  
+        * 아래 빨간 박스의 느낌표는 충돌을 의미함  
         * 빨간 박스 옆에 + 버튼(stage changes)을 누른 후 commit  
-        <img src="./img/image6.png">
+        <img src="./img/image6.png">  
