@@ -16,3 +16,7 @@
 * pull과 push 목록 확인 가능  
 <br>  
 <img src="./img/image4.png">
+
+* github에서 협업하기  
+    * setting -> collaborators -> add people -> 사용자 이메일 입력 or username 입력  
+    * 
