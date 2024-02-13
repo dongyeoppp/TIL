@@ -5,7 +5,9 @@
 ## 자기주도학습 하기  
 
 ### 프로젝트 관리  
-* [vscode를 이용해 git으로 협업하기](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_versionControl.md)
+* [vscode를 이용해 git으로 협업하기](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_versionControl.md)  
+* Git  
+    * [Git CLI-버전관리](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/Git1.md)
 
 ## 코딩테스트 연습  
 ### 프로그래머스  
