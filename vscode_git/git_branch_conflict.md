@@ -4,15 +4,10 @@
     * ``` git branch ``` : 현재 branch의 목록 
     * ``` git branch (생성할 branch name) ``` : branch 생성
     <img src="./img/image14.png">
-<<<<<<< HEAD
 
     * ``` git checkout (branch name) ``` : branch 전환(head의 위치가 변화)  
-    <img src="./img/image15.png">
-
-=======
-    * ``` git checkout (branch name) ``` : branch 전환(head의 위치가 변화)  
-    <img src="./img/image15.png">
->>>>>>> 438c1af4ee6759e39c7fefeb8f50e60b2250cd7b
+    <img src="./img/image15.png">  
+      
     * 하나의 저장소 안에서 공통의 작업을 공유하며 각자 자신의 작업을 가지고 있음을 확인  
     <img src="./img/image16.png">  
 
@@ -28,7 +23,7 @@
         * master로 branch를 전환한 이후 통합-> 충돌이 난 것을 알림  
           ```git status```로 상태 확인  
         <img src="./img/image18.png">
-          
+
         * 파일에서 중복된 부분 확인 후 수정하여 충돌 해결  
         <img src="./img/image19.png">  
 
