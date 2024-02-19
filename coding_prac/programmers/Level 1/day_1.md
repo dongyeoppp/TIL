@@ -1,6 +1,7 @@
 ## 개인 정보 수집 유효기간  
 #### 2023 KAKAO BLIND RECRUITMENT  
 
+* 2024-02-19  
 * 내가 푼 풀이  
  ```
 def solution(today, terms, privacies):

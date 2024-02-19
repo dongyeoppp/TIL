@@ -14,6 +14,6 @@
 * Lv1. "공원 산책" 해결  (24-02-10)  
 * Lv1. "대충 만든 자판" (24-02-13)  
 * Lv1. "둘만의 암호" (24-02-14)  
-* Lv1. "개인정보 수집 유효기간" (24-02-19) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/150370) [내풀이]
+* Lv1. "개인정보 수집 유효기간" (24-02-19) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/150370) [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/day_1.md)
 
 
