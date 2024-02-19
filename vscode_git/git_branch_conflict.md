@@ -3,9 +3,9 @@
 * branch의 기본 사용  
     * ``` git branch ``` : 현재 branch의 목록 
     * ``` git branch (생성할 branch name) ``` : branch 생성
-    <img src="./img/image14.png">    
+    <img src="./img/image14.png">
     * ``` git checkout (branch name) ``` : branch 전환(head의 위치가 변화)  
-    <img src="./img/image15.png">  
+    <img src="./img/image15.png">
     * 하나의 저장소 안에서 공통의 작업을 공유하며 각자 자신의 작업을 가지고 있음을 확인  
     <img src="./img/image16.png">  
 
