@@ -6,7 +6,7 @@
 
 ### 프로젝트 관리  
 * [vscode를 이용해 git으로 협업하기](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_versionControl.md)  
-* Git  
+* Git CLI  
     * [Git CLI- 버전관리](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/Git1.md)
     * [Git CLI- Branch & conflict](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_Branch_Conflict.md)  
     * [Git CLI - Backup](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_Backup.md)
