@@ -12,7 +12,7 @@
     * [Git CLI - Backup](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_Backup.md)
     * [Git CLI - 협업](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_collaboration.md)
     * [Git CLI - Cherry-pick & rebase](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_Cherry_pick.md)
-    * [Git CLI - github.com Pull request]()
+    * [Git CLI - github.com Pull request](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_Pullrequest.md)
 
 ## 코딩테스트 연습  
 ### 프로그래머스
