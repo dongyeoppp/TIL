@@ -1,4 +1,4 @@
-## GIT CLI -Cherry-pick & rebase  
+## GIT CLI - Cherry-pick & rebase  
 
 * 기본 명령어  
     * ```touch [파일이름]``` : 해당 위치에 파일 생성  

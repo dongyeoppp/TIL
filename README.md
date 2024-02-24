@@ -12,6 +12,7 @@
     * [Git CLI - Backup](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_Backup.md)
     * [Git CLI - 협업](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_collaboration.md)
     * [Git CLI - Cherry-pick & rebase](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_Cherry_pick.md)
+    * [Git CLI - github.com Pull request]()
 
 ## 코딩테스트 연습  
 ### 프로그래머스
@@ -28,11 +29,11 @@
 
 * Lv1. "문자열 나누기"(24-02-21) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/140108) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240221.md)  
 
-* Lv1. "명예의 전당(1)"(24-02-24) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/138477) / [내풀이]()  
+* Lv1. "명예의 전당(1)"(24-02-24) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/138477) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240224.md)  
 
-* Lv1. "기사단원의 무기" (24-02-24) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/136798) / [내풀이]()  
+* Lv1. "기사단원의 무기" (24-02-24) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/136798) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240224_1.md)  
 
-* Lv1. "과일 장수"(24-02-24) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/135808) / [내풀이]()  
+* Lv1. "과일 장수"(24-02-24) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/135808) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240224_2.md)  
 
 
 
