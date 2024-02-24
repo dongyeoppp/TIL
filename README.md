@@ -11,6 +11,7 @@
     * [Git CLI- Branch & conflict](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_Branch_Conflict.md)  
     * [Git CLI - Backup](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_Backup.md)
     * [Git CLI - 협업](https://github.com/dongyeoppp/TIL/blob/main/vscode_git/git_CLI_collaboration.md)
+    * [Git CLI - Cherry-pick & rebase]()
 
 ## 코딩테스트 연습  
 ### 프로그래머스
@@ -21,5 +22,6 @@
 * Lv1. "개인정보 수집 유효기간" (24-02-19) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/150370) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/day_1.md)
 * Lv1. "크기가 작은 부분 문자열" (24-02-20) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/147355) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240220.md)  
 * Lv1. "가장 가까운 같은 글자" (24-02-20) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142086) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240220_1.md)
+* Lv1. "문자열 나누기"(24-02-21) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/140108) / [내풀이]()
 
 
