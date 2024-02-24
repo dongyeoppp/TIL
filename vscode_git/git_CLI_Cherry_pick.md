@@ -14,6 +14,7 @@
     <img src="./img/image29.png">  
 
  * rebase
+    
     <img src="./img/image28.png">  
     
     * 위 상태에서 m1의 베이스를 t3로 바꾸고자 할때  ```git rebase [t3가 가르키는 branch name]``` 사용 -> 타임라인을 더 단순하게 바꾸어 줌  
