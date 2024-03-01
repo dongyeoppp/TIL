@@ -37,5 +37,6 @@
 
 * Lv1. "푸드 파이트 대회" (24-02-24) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/134240) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240224_3.md)  
 
-* Lv1. "햄버거 만들기" (24-02-29) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/133502) / [내풀이]()
+* Lv1. "햄버거 만들기" (24-02-29) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/133502) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240229.md)
+
 
