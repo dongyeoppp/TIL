@@ -49,7 +49,7 @@
 
 * Lv1. "삼총사" (24-03-04) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131705) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240304_2.md)  
 
-* Lv1. "숫자 짝꿍" (24-03-04) [문제]() / [내풀이]()  
+* Lv1. "숫자 짝꿍" (24-03-04) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131128) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240304_3.MD)  
 
 
 
