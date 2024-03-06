@@ -51,7 +51,10 @@
 
 * Lv1. "숫자 짝꿍" (24-03-04) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131128) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240304_3.md)  
 
-* Lv1. "성격 유형 검사하기" (24-03-05) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/118666) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240305.md)
+* Lv1. "성격 유형 검사하기" (24-03-05) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/118666) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240305.md)  
 
+* Lv1. "신고 결과 받기" (25-03-06) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/92334) / [내풀이]()  
+
+* 
 
 
