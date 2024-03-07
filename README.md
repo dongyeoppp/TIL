@@ -53,8 +53,21 @@
 
 * Lv1. "성격 유형 검사하기" (24-03-05) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/118666) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240305.md)  
 
-* Lv1. "신고 결과 받기" (25-03-06) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/92334) / [내풀이]()  
+* Lv1. "신고 결과 받기" (24-03-06) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/92334) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240306.md)  
 
-* 
+* Lv1. "나머지가 1이 되는 수 찾기" (24-03-07) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87389) / [내풀이]()   
+
+* Lv1. "최소직사각형" (24-03-07) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86491) / [내풀이]()  
+
+* Lv1. "없는 숫자 더하기" (24-03-07) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86051) / [내풀이]()
+
+* Lv1. "부족한 금액 계산하기" (24-03-07) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/82612) / [내풀이]()  
+
+* Lv1. "숫자 문자열과 영단어" (24-03-07) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/81301) / [내풀이]()  
+
+* Lv1. "약수의 개수와 덧셈" (24-03-07) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/77884) / [내풀이]()  
+
+* Lv1. "로또의 최고 순위와 최저 순위" (24-03-07) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/77484) / [내풀이]()  
+
 
 
