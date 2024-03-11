@@ -69,9 +69,11 @@
 
 * Lv1. "로또의 최고 순위와 최저 순위" (24-03-07) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/77484) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240307_6.md)  
 
-* Lv1. "음양 더하기" (24-03-11) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/76501) / [내풀이]()
+* Lv1. "음양 더하기" (24-03-11) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/76501) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240311.md)
 
-* Lv1. "신규 아이디 추천" (24-03-11) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72410) / [내풀이]()  
+* Lv1. "신규 아이디 추천" (24-03-11) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72410) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240311_1.md)  
+
+
 
 
 
