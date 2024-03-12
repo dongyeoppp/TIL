@@ -73,6 +73,16 @@
 
 * Lv1. "신규 아이디 추천" (24-03-11) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72410) / [내풀이](https://github.com/dongyeoppp/TIL/blob/main/coding_prac/programmers/Level%201/240311_1.md)  
 
+* Lv1. "내적" (24-03-12) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/70128) / [내풀이]()  
+
+* Lv1. "3진법 뒤집기" (24-03-12) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/68935) / [내풀이]()  
+
+* Lv1. "두 개 뽑아서 더하기" (24-03-12) [문제](https://school.programmers.co.kr/learn/courses/30/lessons/68644) / [내풀이]()  
+
+
+
+
+
 
 
 
